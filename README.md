@@ -65,7 +65,7 @@ flowchart LR
 - **Cost:** about $0 at demo scale (free tiers; a few Location Service route calls).
 
 ## Pitch deck
-`docs/DigiLease-deck.pptx` — 14 slides, the demo running order, built from the live screenshots in this repo. Speaker notes are not in the file; the running order is the slide order.
+`docs/DigiLease-deck.pptx`: 14 slides in the demo running order, built from the live screenshots in this repo. Speaker notes are not in the file; the running order is the slide order.
 
 ## Security in brief
 - Share links are 128-bit random tokens. Every public call checks that the link is neither revoked nor expired.
