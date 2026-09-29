@@ -8,6 +8,12 @@ DigiLease turns your DIGIPIN into an address card, with a landmark note and a do
 
 Built for the WeMakeDevs x AWS **First Commit** hackathon (Ship It track). Problem source: Shaastra 2026 (IIT Madras) x India Post, *Digital Address DPI Innovation Hackathon*.
 
+**Judged 24/30** — AWS Usage 8/10, Idea and Impact 7/8, Execution 3/4, Demo Video 3/4, Design and Usability 3/4.
+
+> "Sharp idea with a real consent gap, built cleanly on AWS and polished end to end." — First Commit judge
+
+![First Commit judges' marks: 24 out of 30](docs/screenshots/judges-marks.png)
+
 **Live:** https://main.d109k3dqf4r860.amplifyapp.com · **Demo video:** _link added at submission_
 
 ## How it works
